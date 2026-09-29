@@ -2,7 +2,7 @@ import tkinter as tk
 import random
 from collections import deque
 
-GAME_TITLE = "Tkinter Python Snake by Gagandeep Singh Rathore"
+GAME_TITLE = "Tkinter Python Snake by Jaydeepgupta"
 CANVAS_WIDTH = 600
 CANVAS_HEIGHT = 600
 GRID_SIZE = 20
